@@ -2,7 +2,7 @@
 Hello! I am Laxmi Sah and in future aiming to be a successful game developer.
 
 # 🎯Focusing On:
-• I'm currently working on Unreal engine for game development and it's blueprints.<br>• I am also learning c++ on beside and enhancing my skills to be a successful indie game developer. <br>• I am currently focusing on game programs and its algorithms .<br>• I am working on improving my skills everyday.
+⚫ I'm currently working on Unreal engine for game development and it's blueprints.<br>• I am also learning c++ on beside and enhancing my skills to be a successful indie game developer. <br>• I am currently focusing on game programs and its algorithms .<br>• I am working on improving my skills everyday.
 
 # Hobbies:
 • I enjoy  playing games.<br>• Love solving complex and logical problems.<br>• Love working late-night.<br>• Prefer reading motivational and pyschological books.<br><br>
