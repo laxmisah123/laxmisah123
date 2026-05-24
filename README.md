@@ -16,7 +16,6 @@ Hello! I am Laxmi Sah and in future aiming to be a successful game developer.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=laxmisah123&theme=radical&hide_border=false&include_all_commits=true&count_private=false) &ensp;
 ![](https://streak-stats.demolab.com/?user=laxmisah123&theme=radical&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=laxmisah123&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laxmisah123&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
