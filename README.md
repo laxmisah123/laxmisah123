@@ -21,7 +21,7 @@ Hello! I am Laxmi Sah and in future aiming to be a successful game developer.
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=laxmisah123&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Dev_Quote:
+### ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo:
